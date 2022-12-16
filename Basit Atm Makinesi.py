@@ -34,4 +34,3 @@ while True:
         print("Yeni Bakiyenız {} tldir".format(bakiye))
     else:
         print("Hatalı İşlem girildi")
-        continue
